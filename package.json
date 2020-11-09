@@ -1,0 +1,22 @@
+{
+  "name": "test-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devMiguelFerrer/test-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devMiguelFerrer/test-actions/issues"
+  },
+  "homepage": "https://github.com/devMiguelFerrer/test-actions#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
